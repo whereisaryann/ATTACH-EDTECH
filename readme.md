@@ -3,7 +3,7 @@ An educational website for students and programmers 😊😊😊
 
 ![](pcView.png)
 
-Try this out::  
+Try this out:https://whereisaryann.github.io/ATTACH-EDTECH/:  
 
 
 Our Educational Website would provide all the education related stuffs:  
@@ -23,3 +23,4 @@ Interview questions for students who are preparing for placements.
 It is completely responsive website, to provide smooth experience...😎  
 
 If you like my project, give it a star  😁😁😁
+
